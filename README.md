@@ -4,7 +4,7 @@
 
 ## Demo
 
-(https://firebasestorage.googleapis.com/v0/b/gagan27.appspot.com/o/kirananews.mp4?alt=media&token=94ffdb57-8d77-483f-94fc-af2f5862ee3a)
+https://firebasestorage.googleapis.com/v0/b/gagan27.appspot.com/o/kirananews.mp4?alt=media&token=94ffdb57-8d77-483f-94fc-af2f5862ee3a
 
 ## Assumptions
 
