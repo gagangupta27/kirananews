@@ -11,6 +11,8 @@ import com.facebook.soloader.SoLoader;
 import java.util.List;
 
 import com.kirananews.MyHeadlessTaskPackage;
+import org.devio.rn.splashscreen.SplashScreenReactPackage;
+
 
 public class MainApplication extends Application implements ReactApplication {
 
@@ -28,6 +30,7 @@ public class MainApplication extends Application implements ReactApplication {
           // Packages that cannot be autolinked yet can be added manually here, for example:
           // packages.add(new MyReactNativePackage());
           packages.add(new MyHeadlessTaskPackage());
+          // packages.add(new SplashScreenReactPackage());
           return packages;
         }
 
